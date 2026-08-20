@@ -1,0 +1,8 @@
+interface:
+  display_name: "Astria 视频文稿导出"
+  short_description: "粘贴 Astria 课程链接，导出带时间戳的 Markdown 文稿"
+  default_prompt: "Use $astria-transcript-exporter to export this Astria video transcript as Markdown."
+
+policy:
+  allow_implicit_invocation: true
+
